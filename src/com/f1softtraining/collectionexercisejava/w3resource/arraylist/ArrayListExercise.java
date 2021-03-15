@@ -3,7 +3,7 @@ package com.f1softtraining.collectionexercisejava.arraylist;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class ExerciseDriver {
+public class ArrayListExercise {
     public static void main(String[] args) {
         //Exercise 1: Write a Java program to create a new array list, add some colors (string) and print out the collection.
         System.out.println("\n\nAdding Colors on an Array List and printing them: ");

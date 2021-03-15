@@ -2,7 +2,7 @@ package com.f1softtraining.collectionexercisejava.linkedlist;
 
 import java.util.*;
 
-public class ExerciseDriver {
+public class LinkedListExercise {
     public static void main(String[] args) {
 
         //Exercise 1: Write a Java program to append the specified element to the end of a linked list.

@@ -7,7 +7,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.TreeSet;
 
-public class ExerciseDriver {
+public class TreeSetExercise {
     public static void main(String[] args) {
         //Exercise 1: Write a Java program to create a new tree set, add some colors (string) and print out the tree set.
         System.out.println("\n\nCreating new Tree Set and adding colors: ");

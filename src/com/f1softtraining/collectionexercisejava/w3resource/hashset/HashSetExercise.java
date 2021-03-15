@@ -2,7 +2,7 @@ package com.f1softtraining.collectionexercisejava.hashset;
 
 import java.util.*;
 
-public class ExerciseDriver {
+public class HashSetExercise {
     public static void main(String[] args) {
         //Exercise 1: Write a Java program to append the specified element to the end of a hash set
         System.out.println("\n\nAppend specified element to the end of a hashset: ");

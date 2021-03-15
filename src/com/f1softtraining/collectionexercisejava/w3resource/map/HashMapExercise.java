@@ -1,6 +1,6 @@
 package com.f1softtraining.collectionexercisejava.map;
 
-public class ExerciseDriver {
+public class HashMapExercise {
     public static void main(String[] args) {
         StudentsHashMap studentsHashMap = new StudentsHashMap();
         studentsHashMap.students.put(1, "Aakash");
