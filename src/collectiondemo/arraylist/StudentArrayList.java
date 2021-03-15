@@ -24,5 +24,13 @@ public class StudentArrayList {
         while(iterator.hasNext()){
             System.out.println(iterator.next());
         }
+
+        //Initialised students ArrayList with elements of studentList
+        List<Student> students = new ArrayList<>(studentList);
+        System.out.println("\n" + students);
+
+        studentList.forEach(student -> {
+            System.out.println("Name: " + student.getFirstName() + " | ID: " + student.getId());
+        });
     }
 }
