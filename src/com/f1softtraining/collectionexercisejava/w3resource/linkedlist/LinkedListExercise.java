@@ -1,7 +1,7 @@
-package com.f1softtraining.collectionexercisejava.linkedlist;
+package com.f1softtraining.collectionexercisejava.w3resource.linkedlist;
 
 import java.util.*;
-
+//THESE EXERCISES ARE BASED ON W3RESOURCES.COM
 public class LinkedListExercise {
     public static void main(String[] args) {
 

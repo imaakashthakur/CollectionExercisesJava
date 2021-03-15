@@ -1,13 +1,10 @@
-package com.f1softtraining.collectionexercisejava.treeset;
+package com.f1softtraining.collectionexercisejava.w3resource.treeset;
 
-import com.sun.source.tree.Tree;
-
-import java.util.Collections;
 import java.util.Iterator;
-import java.util.List;
 import java.util.TreeSet;
 
 public class TreeSetExercise {
+    //THESE EXERCISES ARE BASED ON W3RESOURCES.COM
     public static void main(String[] args) {
         //Exercise 1: Write a Java program to create a new tree set, add some colors (string) and print out the tree set.
         System.out.println("\n\nCreating new Tree Set and adding colors: ");

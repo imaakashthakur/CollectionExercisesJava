@@ -1,4 +1,4 @@
-package com.f1softtraining.collectionexercisejava.arraylist;
+package com.f1softtraining.collectionexercisejava.w3resource.arraylist;
 
 import java.util.ArrayList;
 

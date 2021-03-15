@@ -1,7 +1,9 @@
-package com.f1softtraining.collectionexercisejava.arraylist;
+package com.f1softtraining.collectionexercisejava.w3resource.arraylist;
 
 import java.util.ArrayList;
 import java.util.Collections;
+
+//THESE EXERCISES ARE BASED ON W3RESOURCES.COM
 
 public class ArrayListExercise {
     public static void main(String[] args) {

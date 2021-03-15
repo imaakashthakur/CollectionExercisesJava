@@ -1,7 +1,7 @@
-package com.f1softtraining.collectionexercisejava.hashset;
+package com.f1softtraining.collectionexercisejava.w3resource.hashset;
 
 import java.util.*;
-
+//THESE EXERCISES ARE BASED ON W3RESOURCES.COM
 public class HashSetExercise {
     public static void main(String[] args) {
         //Exercise 1: Write a Java program to append the specified element to the end of a hash set

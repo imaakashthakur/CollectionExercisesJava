@@ -1,4 +1,4 @@
-package com.f1softtraining.collectionexercisejava.hashset;
+package com.f1softtraining.collectionexercisejava.w3resource.hashset;
 
 import java.util.HashSet;
 

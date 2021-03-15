@@ -1,4 +1,4 @@
-package com.f1softtraining.collectionexercisejava.map;
+package com.f1softtraining.collectionexercisejava.w3resource.map;
 
 import java.util.HashMap;
 import java.util.Map;
