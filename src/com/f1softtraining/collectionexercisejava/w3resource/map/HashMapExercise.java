@@ -1,7 +1,7 @@
 package com.f1softtraining.collectionexercisejava.w3resource.map;
 
 public class HashMapExercise {
-    //THESE EXERCISES ARE BASED ON W3RESOURCES.COM
+    //Got these exercises form W3Resource for practice
     public static void main(String[] args) {
         StudentsHashMap studentsHashMap = new StudentsHashMap();
         studentsHashMap.students.put(1, "Aakash");
